@@ -8,3 +8,4 @@ alumnos.append("Miguel")
 print("----------------------------------")
 for alumno in alumnos:
     print(f"Nombre alumno: {alumno}")
+print("hola")
